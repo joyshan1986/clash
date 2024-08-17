@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,rize.io
 DOMAIN-SUFFIX,ipify.org
 DOMAIN-SUFFIX,bitzconnect.com
 DOMAIN-SUFFIX,crisp.chat
+DOMAIN-SUFFIX,todesktop.com
 DOMAIN-SUFFIX,licdn.com
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,9to5mac.com
@@ -283,6 +284,7 @@ PROCESS-NAME,Telegram
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
+DOMAIN-KEYWORD,ipify
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve

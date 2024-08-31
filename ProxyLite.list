@@ -2,12 +2,6 @@
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
-DOMAIN-SUFFIX,getscreen.me
-DOMAIN-SUFFIX,rize.io
-DOMAIN-SUFFIX,ipify.org
-DOMAIN-SUFFIX,bitzconnect.com
-DOMAIN-SUFFIX,crisp.chat
-DOMAIN-SUFFIX,todesktop.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
